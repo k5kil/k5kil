@@ -54,7 +54,7 @@
 * Interactive UI
 * Leaderboard system
 
-👉 https://github.com/k5kil/gameapp
+👉 https://github.com/k5kil/؟
 
 ---
 
@@ -115,7 +115,7 @@
 
 > "Build real projects. Solve real problems."
 
-<!--
+
 **k5kil/k5kil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -128,4 +128,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  
